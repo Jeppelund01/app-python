@@ -1,0 +1,5 @@
+.spyproject/
+*.spydata
+__pycache__/
+.DS_Store
+
